@@ -13,7 +13,8 @@
 
 ## 📋 Sobre o Projeto
 
-Um portifólio geral para apresentação de sua carreira. Contém espaço para Projetos, skills, contato e até testemunhos de quem trabalhou com você. O Código e 100% aberto para quem quiser utilizar. <br>-*Quem criou a poltrona se inspirou na cadeira.*
+Um portifólio geral para apresentação de sua carreira. Contém espaço para Projetos, skills, contato e até testemunhos de quem trabalhou com você. O Código e 100% aberto para quem quiser utilizar.
+[Link do Site](https://portifolio-p1.netlify.app/) <br>-*Quem criou a poltrona se inspirou na cadeira.*
 
 ## 📂 Estrutura do Projeto
 
@@ -30,7 +31,7 @@ Portifolio1.0/
 
 Desenvolvido por Yuri Ponce
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo_Pavanello-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurilim4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri_Ponce-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurilim4/)
 
 ---
 
